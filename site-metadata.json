@@ -1,0 +1,28 @@
+{
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "Francisco do Vale Junior",
+        "tagline": "Hi, I’m Francisco do Vale (or just Chico). I’m a front-end developer and I like to give life to designer layouts and do well strcutured web systems.",
+        "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--bcAUkdSw--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/61025/3ab22fbc-aa8e-487e-acf9-d83d12265436.jpg",
+        "bg": "dark",
+        "has_nav": true,
+        "has_social": true
+    },
+    "footer": {
+        "content": "&copy; All rights reserved.",
+        "links": [
+            {
+                "text": "Made with Stackbit",
+                "url": "https://www.stackbit.com",
+                "new_window": true
+            },
+            {
+                "text": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true
+            }
+        ]
+    },
+    "title": "Stackbit Fresh Theme"
+}
